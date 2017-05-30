@@ -8,7 +8,7 @@ text-align: center;
 text-shadow: 5px 3px 3px red;
 color: white;
 }
-@media only screen and (max-width: 380px) 
+@media only screen and (max-density: 480dpi) 
 {
   body
   {
