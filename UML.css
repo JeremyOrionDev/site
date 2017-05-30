@@ -1,4 +1,4 @@
-#box1
+e#box1
 {
 border: 2px solid blue;
   box-sizing: border-box;
@@ -8,7 +8,7 @@ text-align: center;
 text-shadow: 5px 3px 3px red;
 color: white;
 }
-@media only screen and (max-density: 480dpi) 
+@media only screen and (max-device-width: 480dpi) 
 {
   body
   {
