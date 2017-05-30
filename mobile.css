@@ -8,6 +8,10 @@ text-align: center;
 text-shadow: 5px 3px 3px red;
 color: white;
 }
+.body
+{
+  background-color:green;
+}
 #box2
 {
 border: 20% solid black;
