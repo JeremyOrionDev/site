@@ -8,6 +8,8 @@ text-align: center;
 text-shadow: 5px 3px 3px red;
 color: white;
 }
+@media only screen and (max-width: 240px) 
+{.body{background-color:red;}}
 #box2
 {
 border: 2px solid blue;
